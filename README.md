@@ -23,8 +23,10 @@ This scan is send TCP SYN request to system where the system never denail it.The
 # Nmap Using with our ip address
 In nmap there so many scans are avaliable.But we using -sS for TCP SYN scan it for knowing open ports in system.
 It display opens ports with services is running with them.
-I used this command to google.we all know that ipaddress is 8.8.8.8
+I used this command to google.we all know that ipaddress is 8.8.8.8.
+
 nmap -sS 8.8.8.8
+
 result: open ports are 53 is domain.
                         433 is https.
 
