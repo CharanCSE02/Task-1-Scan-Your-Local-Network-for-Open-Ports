@@ -1,4 +1,4 @@
-# Task-1-Scan-Your-Local-Network-for-Open-Ports
+# Task-1-Open-port-scanning
 Cyber Security Internship
 # Install Nmap 
 We install nmap from official website (or) used nmap for Kali linux virtual machine.
